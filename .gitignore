@@ -1,0 +1,5 @@
+data.ts
+
+node_modules/**
+.cache/**
+dist/**
